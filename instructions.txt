@@ -1,0 +1,22 @@
+##############################################################################################################
+#This project is created to find all the files present under an input folder.                                #
+#Author is not liable for any type of loss or damage caused by this project. Use this based on your own risk.#
+##############################################################################################################
+Author: Jitendra Kumar Mahato
+##############################################################################################################
+Instructions:
+1. You should have python installed in your system.
+2. To use python idle use command "python -m idlelib.idle".
+
+##############################################################################################################
+# How to run this script: -                                                                                  #
+# 1. Go to https://github.com/mahatojitendra/PythonSearchFile.git                                                       #
+# 2. Locate <> Code section. Click <> Code dropdown button.                                                  #
+# 3. You can download the zip folder of this repository.                                                     #
+# 4. Extract downloaded zip folder to anywhere you want.                                                     #
+# 5. If you don't want to use zip folder then simply use command in the command prompt where you want to     #
+#    download this repository.                                                                               #
+#    command: git clone https://github.com/mahatojitendra/PythonSearchFile.git                                          #
+# 6. Run script by using command in the command prompt: python main.py                                       #
+# 7. Follow the Instructions given in the program itself.                                                    #
+##############################################################################################################
